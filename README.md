@@ -9,10 +9,15 @@ I build mobile applications, computational tools, and data-driven projects using
 ## Technical Skills
 
 **Languages** &nbsp; Python · C · Assembly (x86)
+
 **Mobile & UI** &nbsp; Flutter · Dart
+
 **Data & Computation** &nbsp; Pandas · NumPy · Numerical Methods 
+
 **Frontend** &nbsp; HTML · CSS  
+
 **Core Concepts** &nbsp; Data Structures · Algorithms · Digital Logic Design · Microprocessors
+
 **Tools** &nbsp; Git · Jupyter Notebook· VS Code
 
 ---
