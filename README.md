@@ -26,10 +26,13 @@ I build mobile applications, computational tools, and data-driven projects using
 
 | Project | Description | Stack |
 |---|---|---|
-| [Koja](https://github.com/Wallem-1089/Koja) | Computer-based testing app with navigation controls, timed exams, answer selection (A–D keys), and submission handling | Flutter. Dart  |
-| [Numerical Methods Solver](https://github.com/fawazsanu/8086-Custom-Assembler) |Implemented solutions for ODEs and numerical techniques like Simpson’s Rule for engineering calculations | Python · Pandas |
-| [CSV-Based Question Engine](https://github.com/fawazsanu/Automated-Defect-Detection-System) | Developed a system to load and parse questions from CSV files for use in testing applications | Dart · CSV Parsing|
-| [Stock Analysis System](https://github.com/fawazsanu/Solar-Energy-Prediction) | Analyzed Nigerian stocks using financial metrics (P/E, EPS) and built projection models for investment insights | Python · Pandas |
+| [Koja](https://github.com/Wallem-1089/Koja) | Computer-based testing app with navigation controls, timed exams, answer selection (A–D keys), and submission handling | Flutter · Dart · JSON · CSV |
+| [Koja Question Builder](https://github.com/fawazsanu/8086-Custom-Assembler) |I built a companion authoring tool for creating, editing, previewing, importing, and exporting structured CBT question banks with mathematical notation and images. | Flutter · Dart · JSON · Image Picker · File Picker · Path Provider |
+| [Hospital Management System (HMS)](https://github.com/fawazsanu/Automated-Defect-Detection-System) | Developed a web-based hospital management platform supporting workflows across reception, patient registration and search, visits, queues, accounts, nursing, doctor consultations, laboratory, X-ray, and pharmacy operations.| PHP · MySQL · XAMPP · HTML · CSS · JavaScript · SQL|
+| [iMemo – Internal Memo System](https://github.com/fawazsanu/Solar-Energy-Prediction) | Developed an internal company memo application for composing, previewing, sending, and managing memos, including reusable electronic signatures and local persistence. | Flutter · Dart · SharedPreferences · Signature |
+| [CalculateAll](https://github.com/fawazsanu/Solar-Energy-Prediction) | Feature-rich scientific and general-purpose calculator with mathematical, statistical and engineering calculations in a graphical desktop interface. | Python · KivyMD · Kivy · NumPy · Statistics|
+| [PDF Extractor](https://github.com/fawazsanu/Solar-Energy-Prediction) | Python utility for extracting unstructured textual content from PDF documents through page-level PDF processing. | Python · PDFMiner|
+| [Ellen Voice Assistant](https://github.com/fawazsanu/Solar-Energy-Prediction) | Voice-controlled Python assistant capable of speech recognition, text-to-speech, media commands, information retrieval and desktop/device operations. | Python · SpeechRecognition · pyttsx3 · PyWhatKit · Wikipedia · Plyer|
 
 ---
 
